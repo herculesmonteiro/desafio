@@ -1,0 +1,18 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "gender": "Male",
+    "mobile": "1234567890",
+    "dateOfBirth": {
+        "month": "January",
+        "year": "1990",
+        "day": "15"
+    },
+    "subjects": ["Maths", "English"],
+    "hobbies": ["Sports", "Reading"],
+    "picture": "path/to/picture.jpg",
+    "currentAddress": "123 Main St, City",
+    "state": "NCR",
+    "city": "Delhi"
+}
